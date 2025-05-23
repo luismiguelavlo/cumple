@@ -128,8 +128,8 @@ for (let i = 0; i < 50; i++) {
 // Mensajes para mostrar al explotar globos
 const explosionMessages = [
   "¡Feliz cumpleaños Tomás, que este y todos los muchos años por venir estén llenos de alegría, salud y buenos momentos!. by: Juan Manuel 🎁",
-  "¡Feliz cumpleaños al único líder de proyectos que puede gestionar un sprint, un deploy en viernes y una fiesta de cumpleaños sin que se caiga nada (bueno, excepto él después de unos tragos)! 🥳🍻 by: Luis Miguel ",
-  "¡Que tengas un día increíble! 🥳",
+  "¡Feliz cumpleaños Tomás, al único líder de proyectos que puede gestionar un sprint, un deploy en viernes y una fiesta de cumpleaños sin que se caiga nada (bueno, excepto tú después de unos tragos)! 🥳🍻 by: Luis Miguel ",
+  "¡Feliz cumpleaños al crack de los cronogramas imposibles y las soluciones mágicas! Te deseo un año sin reuniones que pudieron ser un mail y muchos proyectos donde todo sale bien a la primera (sí, también nos reímos 😅) by: Mario",
   "¡Querido Tomas el adagio popular dice que los años nos vuelven mas viejos, pero mi pensar es que nos vuelven mas sabios, por eso en este nuevo año de vida te deseo te llegue cargado de mas sabiduría salud y prosperidad, que cumplas muchos años mas by: Darwin Mora! 🤗",
 ];
 
